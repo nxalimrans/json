@@ -1,8 +1,8 @@
 [
   {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
+    "id": "1fae1437e18c43a0",
+    "username": "1fae1437e18c43a0",
+    "password": "1fae1437e18c43a0",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
@@ -18,6 +18,13 @@
     "username": "1fae1437e18c43a0",
     "password": "1fae1437e18c43a0",
     "expiresAt": "2026-11-30",
+    "allowOffline": true
+  },
+  {
+    "id": "abc123xyz456",
+    "username": "abc123xyz456",
+    "password": "abc123xyz456",
+    "expiresAt": "2026-01-01",
     "allowOffline": true
   }
 ]
